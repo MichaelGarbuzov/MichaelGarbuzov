@@ -2,7 +2,7 @@
 #### I am a computer science student (B.Sc)
 
 <a href="https://ibb.co/PT07CcT"><img src="https://i.ibb.co/RhdxH3h/On-Demand-Same-Day-Deliveries.png" alt="On-Demand-Same-Day-Deliveries" border="0"></a>
-Extremely motivated, responsible, independent, Hard working with excellent skills.
+<br>Extremely motivated, responsible, independent, Hard working with excellent skills.
 Seeking for student/entry position in software development field. 
 
 Skills: Java, Python, C, C++, C# , JavaScript, Html, CSS. ● Web Technologies:, React.JS, Node.JS , jQuery ,Bootstrap. ● Operating Systems: Unix/ Linux, Windows.
