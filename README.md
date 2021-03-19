@@ -5,7 +5,7 @@
 <br>Extremely motivated, responsible, independent, Hard working with excellent skills.
 <br>Seeking for student/entry position in software development field. 
 
-Skills: Java, Python, C, C++, C# , JavaScript, Html, CSS. ● Web Technologies:, React.JS, Node.JS , jQuery ,Bootstrap. ● Operating Systems: Unix/ Linux, Windows.
+● Skills: Java, Python, C, C++, C# , JavaScript, Html, CSS . <br> ● Web Technologies: React.JS, Node.JS , jQuery ,Bootstrap . <br> ● Operating Systems: Unix/ Linux, Windows.
 
 - 🔭 I’m currently working on Flight simulator made by Java. 
 - 📫 How to reach me: michaelgarbuzov1994@gmail.com 
