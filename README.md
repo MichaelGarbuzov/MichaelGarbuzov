@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Michael Garbuzov
 #### I am a computer science student (B.Sc)
-https://github.com/MichaelGarbuzov/MichaelGarbuzov/blob/main/On-Demand%20Same-Day%20Deliveries.png
 
+<a href="https://ibb.co/PT07CcT"><img src="https://i.ibb.co/RhdxH3h/On-Demand-Same-Day-Deliveries.png" alt="On-Demand-Same-Day-Deliveries" border="0"></a>
 Extremely motivated, responsible, independent, Hard working with excellent skills.
 Seeking for student/entry position in software development field. 
 
