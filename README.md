@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Michael Garbuzov
 #### I am a computer science student (B.Sc)
 
-<img src="https://pasteboard.co/JWY1vgY.jpg">
+![WhatsApp Image 2021-04-12 at 11 25 59 (1)](https://user-images.githubusercontent.com/48695785/114379242-395ea800-9b91-11eb-86bd-5d096d5f5f6b.jpeg)
 
 <br>Extremely motivated, responsible, independent, Hard working with excellent skills.
 <br>Seeking for student/entry position in software development field. 
