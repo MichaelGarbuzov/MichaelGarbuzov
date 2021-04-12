@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Michael Garbuzov
 #### I am a computer science student (B.Sc)
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/WDHDedL" data-context="false" ><a href="//imgur.com/a/WDHDedL"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img src="https://imgur.com/UiYg4ZR">
 
 <br>Extremely motivated, responsible, independent, Hard working with excellent skills.
 <br>Seeking for student/entry position in software development field. 
